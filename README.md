@@ -3,13 +3,15 @@
 <img align="center" alt="Coding" src="https://www.lavoz.com.ar/resizer/9DvCUG7gefuQi8BuK1Vk2X0oAsA=/1023x323/smart/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
 <h1 align="center">Hi 👋, I'm María Alejandra Lozano</h1>
 
-<h3 align="center"> Welcome to my journey in to a career change. It has been a hard path through an immersive study with a Virtual Bootcamp, it was difficult but not impossible, and thats why i am here in github share with you all my process, and my grow. Although you can see some of my projects completed, i have to confess that im working again on them (and new ones), and why? because the porpouse of this process its not just get a completed project and let it in to a drawer of memories, the really porpouse is improve that persone (me) who wrotes that code in the past, because we learn more from our mistakes.</h3>
+<h3 align="center"> Welcome to my journey in to a career change. It has been a hard path through an immersive study with a Virtual Bootcamp, it was difficult but not impossible, and thats why i am here in github share with you all my process, and my grow. Although you can see some of my projects completed, i have to confess that im working again on them (and new ones), and why? because the porpouse of this process its not just get a completed project and let it in to a drawer of memories, the really porpouse is improve that persone (me) who wrotes that code in the past, because we learn more from our mistakes.
+And finally, but not less important, its that  i am really focus to improve all my skills for be the best backend developer</h3>
 
 
 
+- PROJECT : (Java , Spring , Vue Js , HTML , CSS ) [Mindhub Bank (Homebanking)]
+- PROJECT :  (HTML, CSS , JavaScript, Vue Js ) [Amazing Events](https://mariaalejandral.github.io/amazing-events/)
 
-- PROJECT 1:  (HTML, CSS , JavaScript, Vue Js ) [Amazing Events](https://mariaalejandral.github.io/amazing-events/)
-- PROJECT 2: (Java , Spring , Vue Js , HTML , CSS ) [Mindhub Bank (Homebanking)]
+- 🌱 I’m currently working  **New API (Java , Spring , Postman)**
 
 - 🌱 I’m currently learning **Python, Oracle and MySQL Databases**
 
