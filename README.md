@@ -9,7 +9,7 @@
 
 
 - PROJECT 1:  (HTML, CSS , JavaScript, Vue Js ) [Amazing Events](https://mariaalejandral.github.io/amazing-events/)
-- PROJECT 2: (Java , Spring , Vue Js , HTML , CSS ) [Mindhub Bank (Homebanking)](https://mindhub-bank.herokuapp.com/web/index.html)
+- PROJECT 2: (Java , Spring , Vue Js , HTML , CSS ) [Mindhub Bank (Homebanking)]
 
 - 🌱 I’m currently learning **Python, Oracle and MySQL Databases**
 
