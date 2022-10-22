@@ -10,7 +10,7 @@
 - PROJECT : (Java / Spring MVC / POO / relational DB / Gradle / Spring Security / PostgreSQL ) [Mindhub Bank (Homebanking)]
 - PROJECT :  (HTML, CSS , JavaScript, Vue Js ) [Amazing Events](https://mariaalejandral.github.io/amazing-events/)
 
-- 🌱 I’m currently working  **New API (Java , Spring , Postman)**
+- 🌱 I’m currently working  **New SOA API (Java , Spring , Postman)**
 
 - 🌱 I’m currently learning **Oracle and MySQL Databases**
 
