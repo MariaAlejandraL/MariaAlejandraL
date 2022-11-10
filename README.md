@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently working  **New SOA API (Java , Spring , Postman)**
 
-- 🌱 I’m currently learning **Oracle and MySQL Databases**
+- 🌱 I’m currently learning **MySQL Databases**
 
 
 
