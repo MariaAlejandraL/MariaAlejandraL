@@ -3,7 +3,7 @@
 <img align="center" alt="Coding" src="https://www.lavoz.com.ar/resizer/9DvCUG7gefuQi8BuK1Vk2X0oAsA=/1023x323/smart/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
 <h1 align="center">Hi 👋, I'm María Alejandra </h1>
 
-<h3 align="center"> Welcome to my journey into a career change. It has been a hard path through an immersive study with a Virtual Bootcamp, it was difficult but not impossible, and that's why I am here on GitHub to share with you all my process, and my growth. Although you can see some of my projects completed, I have to confess that I'm working again on them (and new ones), and why? because the purpose of this process it's not just to get a completed project and let it into a drawer of memories, the real purpose is to improve that person (me) who wrote that code in the past, because we learn more from our mistakes. And finally, but not less important, I am really focused to improve all my skills to be the best backend developer.</h3>
+<h3 align="center"> Welcome to my journey into a career change. It has been a hard path through an immersive study with a Virtual Bootcamp, it was difficult but not impossible, and that's why I am here on GitHub to share with you all my process, and my growth.  I am really focused to improve all my skills to be the best backend developer.</h3>
 
 
 
