@@ -1,9 +1,7 @@
 
 
 <img align="center" alt="Coding" src="https://www.lavoz.com.ar/resizer/9DvCUG7gefuQi8BuK1Vk2X0oAsA=/1023x323/smart/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
-<h1 align="center">Hi 👋, I'm María Alejandra </h1>
 
-<h3 align="center"> Welcome to my journey into a career change. It has been a hard path through an immersive study with a Virtual Bootcamp, it was difficult but not impossible.  I am really focused to improve all my skills to be the best backend developer.</h3>
 
 
 
