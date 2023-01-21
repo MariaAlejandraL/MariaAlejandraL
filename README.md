@@ -5,7 +5,7 @@
 
 
 
-- PROJECT : Online Banking  (Java 11 / Spring MVC / POO / relational DB / Gradle / Spring Security / PostgreSQL ) 
+- PROJECT : API RESTFUL : Online Banking  (Java 11 / Spring MVC / POO / relational DB / Gradle / Spring Security / PostgreSQL ) 
 - PROJECT : CRUD  (Java 8 / Spring MVC / POO / relational DB / Maven / MySQL ) 
 - PROJECT :  (HTML, CSS , JavaScript, Vue Js ) [Amazing Events](https://mariaalejandral.github.io/amazing-events/)
 
